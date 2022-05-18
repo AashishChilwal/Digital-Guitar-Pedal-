@@ -14,7 +14,7 @@ There are several common guitar pedals:
 if a string is tuned sharp (pitch too high frequency) or flat (pitch too low frequency) 
 <br><br>ii. Delay pedal: Creates echo effect by repeating signal in time-domain 
 <br><br>iii. Distortion pedal: Uses feedback to create a coarser sound 
-<br>iv. Compression pedal: This pedal compresses the volume (i.e., amplitude) of different pitches, i.e., making 
+<br><br>iv. Compression pedal: This pedal compresses the volume (i.e., amplitude) of different pitches, i.e., making 
           low volumes pitches higher volume and making high volume pitches a lower volume. This evens out the 
           sound (with all amplitudes being close to equal) and is a popular effect for the guitar as many strings are 
           played at once. 
